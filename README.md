@@ -1,4 +1,4 @@
-# dollar-to-brl
+# dollar-to-cop
 ```
 Gnome-Shell Extension (41.x,42.x), for conversion dollar USD to real COP.
 ```
